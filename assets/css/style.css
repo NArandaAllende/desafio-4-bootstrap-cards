@@ -1,0 +1,18 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+}
+
+.imgHeader {
+    height: 20pt
+}
+
+
+.imgFooter {
+    height: 15pt;
+    width: 73pt;
+}
+
+.textStrong {
+    font-weight: 500;
+}
